@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131019908411",
+    "project_id": "likegram-bb771",
+    "storage_bucket": "likegram-bb771.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131019908411:android:b653336d30258538cbc31e",
+        "android_client_info": {
+          "package_name": "com.example.insta_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM891ecMQLbJQzGiaz2W3RwnfG5Rrko34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
